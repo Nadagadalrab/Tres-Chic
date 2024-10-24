@@ -1,0 +1,36 @@
+.women{
+    background-color: #e9ddc7;
+
+}
+
+.men{
+    background-color: #e9ddc7;
+}
+
+.kids{
+    background-color: #e9ddc7;
+}
+
+.home {
+    text-align: center;
+    color: #fff;
+    background-color:#613546;
+    text-decoration: none;
+    font-size: 1.5em;
+    font-weight: 600;
+    display: inline-block;
+    padding: 1.9375em 3.1875em;
+    letter-spacing: 1px;
+    border-radius: 15px;
+    margin-bottom: 40px;
+    margin-top: 40px;
+    transition: 0.7s ease;
+    justify-content: center;
+    margin-left: 450px;
+    
+}
+
+.home:hover {
+    background-color:rgb(86, 39, 17);
+    transform: scale(1.1);
+}
